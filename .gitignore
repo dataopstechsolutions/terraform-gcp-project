@@ -1,0 +1,8 @@
+# Ignore GCP credentials
+*.json
+
+# Ignore Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
